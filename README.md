@@ -65,13 +65,12 @@ If using MongoDB Atlas, ensure your connection URI is correctly configured in th
 
 Create a `.env` file in the `api` directory with the following content:
 
-```plaintext
+
 MONGO_URI=mongodb+srv://atulanurag8544:YMBbVdUuhj3Qcm2W@cluster0.9ynpx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
+ ## Open backend/server.js:
 
-   ## Open backend/server.js:
-
-  ### Replace the MongoDB connection URI with your own:
+### Replace the MongoDB connection URI with your own:
 
 
          mongoose.connect('your-mongodb-uri-here', { useNewUrlParser: true, useUnifiedTopology: true })
