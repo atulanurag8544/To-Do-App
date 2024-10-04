@@ -66,7 +66,7 @@ If using MongoDB Atlas, ensure your connection URI is correctly configured in th
 Create a `.env` file in the `api` directory with the following content:
 
 
-MONGO_URI=mongodb+srv://atulanurag8544:YMBbVdUuhj3Qcm2W@cluster0.9ynpx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+             MONGO_URI=mongodb+srv://atulanurag8544:YMBbVdUuhj3Qcm2W@cluster0.9ynpx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
  ## Open backend/server.js:
 
