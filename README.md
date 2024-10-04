@@ -61,9 +61,9 @@ mongoose.connect('your-mongodb-uri-here', { useNewUrlParser: true, useUnifiedTop
 Ensure the IP of the machine you are working on is whitelisted in MongoDB Atlas.
 
 ### 4. Running the Application
-  ### Backend (Node.js/Express)
+  ## Backend (Node.js/Express)
 
-Start the backend server:
+### Start the backend server:
 
 cd api
 
