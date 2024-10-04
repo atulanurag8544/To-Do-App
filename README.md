@@ -29,7 +29,8 @@ A simple full-stack To-Do application with the following features:
   * cd todo-app
    
  ## 2. Install Dependencies
-   ### Backend (Node.js and Express):
+ 
+   ## Backend (Node.js and Express):
 
 ### Navigate to the backend folder:
 
@@ -70,9 +71,9 @@ node server.js
 
 The backend will run on http://localhost:5000.
 
-### Frontend (React)
+## Frontend (React)
 
-Start the frontend:
+### Start the frontend:
 
 
 cd todo-app
