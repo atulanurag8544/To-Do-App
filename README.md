@@ -104,18 +104,7 @@ Request Body: { "name": "Task name" }
 
 ## Folder Structure
 
-todo-app
-│
-├── backend
-│ ├── server.js # Express server setup
-│ └── package.json # Backend dependencies
-│
-└── frontend
-├── src
-│ ├── App.js # Main React component
-│ ├── TaskForm.js # Task input form component
-│ └── TaskList.js # Task list component
-└── package.json # Frontend dependencies
+MERN-TO-DO-APP │ ├── api  │ │ └── db.js # Database connection setup │ │ │ ├── controllers # Controller functions for handling requests │ │ └── taskController.js # Task-related operations │ │ │ ├── models # Mongoose models for MongoDB │ │ └── Task.js # Task schema definition │ │ │ ├── routes # API route definitions │ │ └── taskRoutes.js # Routes for task operations │ │ │ ├── middleware # Custom middleware for Express │ │ └── auth.js # Authentication middleware │ │ │ ├── server.js # Express server setup │ └── package.json # Backend dependencies │ └── frontend ├── public # Static files │ ├── index.html # Main HTML file │ └── favicon.ico # Website icon │ ├── src # Source code for the React application │ ├── components # Reusable components │ │ ├── Header.js # Header component │ │ ├── Footer.js # Footer component │ │ └── TaskItem.js # Individual task display component │ │ │ ├── pages # Page components │ │ └── Home.js # Home page component │ │ │ ├── hooks # Custom hooks │ │ └── useTasks.js # Custom hook for task operations │ │ │ ├── App.js # Main React component │ ├── index.js # Entry point for React application │ └── App.css # Styles for the main application │ └── package.json # Frontend dependencies
 
 
 License
