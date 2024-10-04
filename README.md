@@ -27,9 +27,28 @@ A simple full-stack To-Do application with the following features:
 
 ### Clone the Repository
  
-  * git clone https://github.com/atulanurag8544/todo-app.git
-   
-  * cd todo-app
+cd C:\Users\Dell\Downloads\MERN-TO-DO-APP-main
+
+
+git init
+
+
+git add .
+
+
+git commit -m "Your commit message here"
+
+
+git remote add origin https://github.com/username/repo-name.git
+
+
+git fetch origin
+
+
+git merge origin/main --allow-unrelated-histories  
+
+git push -u origin main  # Use 'main' or 'master' as appropriate
+
    
  ## 2. Install Dependencies
  
