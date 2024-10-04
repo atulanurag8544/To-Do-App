@@ -116,18 +116,18 @@ todo-app
 │   ├── package-lock.json
 │   │
 │   ├── package.json
-│   ├── server.js             # Express server setup
+│   ├── server.js            
 │   └── package.json          # Backend dependencies and scripts
 │
 └── todo-app
     ├── public                # Static files served by React application
     │   ├── index.html        # Main HTML file
-    │   └── manifest.json      # Website icon
+    │   └── manifest.json     
     │
     ├── src                   # Source code for the React application
     │    ├── App.js      # Header component
-    │    ├── index.js      # Footer component
-    │    └── TodoItem.js    # Individual task display component
+    │    ├── index.js      
+    │    └── TodoItem.js    
     │   │
     │   ├── .gitignore
     │   ├── package-lock.json
