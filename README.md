@@ -6,11 +6,11 @@ A simple full-stack To-Do application with the following features:
 * MongoDB as the database to persist tasks.
 * React frontend to interact with the API.
 ## Features
-### * Frontend (React):
+###  Frontend (React):
 * Add tasks.
 * Display a list of tasks.
 * Delete tasks.
-### * Backend (Node.js and Express):
+###  Backend (Node.js and Express):
 * GET /tasks: Retrieve all tasks.
 * POST /tasks: Add a new task.
 * DELETE /tasks/:id: Delete a task by ID.
