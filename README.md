@@ -61,12 +61,12 @@ npm install
  ###  3. Configure MongoDB
 If using MongoDB Atlas, ensure your connection URI is correctly configured in the backend:
 
-### Open backend/server.js:
+   ### Open backend/server.js:
 
-Replace the MongoDB connection URI with your own:
+      Replace the MongoDB connection URI with your own:
 
 
-mongoose.connect('your-mongodb-uri-here', { useNewUrlParser: true, useUnifiedTopology: true })
+* mongoose.connect('your-mongodb-uri-here', { useNewUrlParser: true, useUnifiedTopology: true })
 
 Ensure the IP of the machine you are working on is whitelisted in MongoDB Atlas.
 
