@@ -104,8 +104,6 @@ Request Body: { "name": "Task name" }
 : Delete a task by its ID.
 
 
-## License
-This project is licensed under the MIT License.
 
 ### Author
 Atul Anurag
