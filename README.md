@@ -31,7 +31,7 @@ A simple full-stack To-Do application with the following features:
  ### 2. Install Dependencies
    ### Backend (Node.js and Express):
 
-###Navigate to the backend folder:
+### Navigate to the backend folder:
 
 
 cd api
@@ -40,7 +40,7 @@ npm install
 
 ### Frontend (React):
 
-Navigate to the frontend folder:
+### Navigate to the frontend folder:
 
 
 cd ../todo-app
