@@ -43,8 +43,10 @@ npm install
 Navigate to the frontend folder:
 
 
-cd ../frontend
+cd ../todo-app
+
 npm install
+
  ###  3. Configure MongoDB
 If using MongoDB Atlas, ensure your connection URI is correctly configured in the backend:
 
