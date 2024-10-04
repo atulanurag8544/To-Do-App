@@ -50,26 +50,29 @@ npm install
  ###  3. Configure MongoDB
 If using MongoDB Atlas, ensure your connection URI is correctly configured in the backend:
 
-Open backend/server.js:
+###Open backend/server.js:
 
 Replace the MongoDB connection URI with your own:
 
 
 mongoose.connect('your-mongodb-uri-here', { useNewUrlParser: true, useUnifiedTopology: true })
+
 Ensure the IP of the machine you are working on is whitelisted in MongoDB Atlas.
 
 ### 4. Running the Application
-   Backend (Node.js/Express)
+  ### Backend (Node.js/Express)
 
 Start the backend server:
 
 cd api
+
 node server.js
+
 The backend will run on http://localhost:5000.
 
 ###Frontend (React)
 
-Start the frontend:
+###Start the frontend:
 
 
 cd todo-app
