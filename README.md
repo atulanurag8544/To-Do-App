@@ -102,38 +102,6 @@ Request Body: { "name": "Task name" }
 ### DELETE /tasks/
 : Delete a task by its ID.
 
-## Folder Structure
-
-MERN-TO-DO-APP
-│
-├── api
-│   ├── model             
-│   │   └──   Todo.js          
-│   │
-│   ├── node_modules        
-│   ├── .env
-│   │
-│   ├── package-lock.json
-│   │
-│   ├── package.json
-│   ├── server.js            
-│   └── package.json          # Backend dependencies and scripts
-│
-└── todo-app
-    ├── public                # Static files served by React application
-    │   ├── index.html        # Main HTML file
-    │   └── manifest.json     
-    │
-    ├── src                   # Source code for the React application
-    │    ├── App.js      # Header component
-    │    ├── index.js      
-    │    └── TodoItem.js    
-    │   │
-    │   ├── .gitignore
-    │   ├── package-lock.json
-    │   ├── README.md
-    └── package.json           # Frontend dependencies and scripts
-
 
 ## License
 This project is licensed under the MIT License.
