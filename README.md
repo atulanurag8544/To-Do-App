@@ -22,7 +22,7 @@ A simple full-stack To-Do application with the following features:
 
 ## Installation and Setup Instructions
 
-               ### 1. Clone the Repository
+### Clone the Repository
  
   * git clone https://github.com/atulanurag8544/todo-app.git
    
