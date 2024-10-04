@@ -14,8 +14,7 @@ A simple full-stack To-Do application with the following features:
 * GET /tasks: Retrieve all tasks.
 * POST /tasks: Add a new task.
 * DELETE /tasks/:id: Delete a task by ID.
-### * MongoDB:
-Tasks are stored in MongoDB for persistent storage.
+
 ## Technologies Used
 * Frontend: React.js, Axios for API calls.
 * Backend: Node.js, Express.js, Mongoose (for MongoDB integration).
