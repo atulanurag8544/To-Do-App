@@ -6,7 +6,8 @@ A simple full-stack To-Do application with the following features:
 * MongoDB as the database to persist tasks.
 * React frontend to interact with the API.
 
-  ![image](https://github.com/user-attachments/assets/71ccd83c-0dd5-4dec-a1d7-1a428b8d18c8)
+![image](https://github.com/user-attachments/assets/661d5bd9-aadf-49b7-9881-464ad9cf7cf2)
+
 
 ## Features
 ###  Frontend (React):
