@@ -22,11 +22,11 @@ A simple full-stack To-Do application with the following features:
 
 ## Installation and Setup Instructions
 
-### 1. Clone the Repository
+               ### 1. Clone the Repository
  
-   git clone https://github.com/atulanurag8544/todo-app.git
+  * git clone https://github.com/atulanurag8544/todo-app.git
    
-   cd todo-app
+  * cd todo-app
    
  ### 2. Install Dependencies
    ### Backend (Node.js and Express):
