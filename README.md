@@ -104,7 +104,35 @@ Request Body: { "name": "Task name" }
 
 ## Folder Structure
 
-MERN-TO-DO-APP │ ├── api │ ├── model # Mongoose models for MongoDB │ │ └── Todo.js # Todo schema definition │ │ │ ├── node_modules # Project dependencies │ ├── .env # Environment variables │ │ │ ├── package-lock.json # Locked dependencies │ ├── package.json # Backend dependencies and scripts │ ├── server.js # Express server setup │ └── todo-app ├── public # Static files served by React application │ ├── index.html # Main HTML file │ └── manifest.json # Web app manifest │ ├── src # Source code for the React application │ ├── App.js # Main application component │ ├── index.js # Entry point for React application │ └── TodoItem.js # Component to display individual todo items │ │ │ ├── .gitignore # Git ignore file │ ├── package-lock.json # Locked dependencies for frontend │ ├── README.md # Project documentation └── package.json # Frontend dependencies and scripts
+MERN-TO-DO-APP
+│
+├── api
+│   ├── model             
+│   │   └──   Todo.js          
+│   │
+│   ├── node_modules        
+│   ├── .env
+│   │
+│   ├── package-lock.json
+│   │
+│   ├── package.json
+│   ├── server.js            
+│   └── package.json          # Backend dependencies and scripts
+│
+└── todo-app
+    ├── public                # Static files served by React application
+    │   ├── index.html        # Main HTML file
+    │   └── manifest.json     
+    │
+    ├── src                   # Source code for the React application
+    │    ├── App.js      # Header component
+    │    ├── index.js      
+    │    └── TodoItem.js    
+    │   │
+    │   ├── .gitignore
+    │   ├── package-lock.json
+    │   ├── README.md
+    └── package.json           # Frontend dependencies and scripts
 
 
 ## License
