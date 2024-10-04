@@ -47,7 +47,7 @@ git fetch origin
 
 git merge origin/main --allow-unrelated-histories  
 
-git push -u origin main  # Use 'main' or 'master' as appropriate
+git push -u origin main  
 
    
  ## 2. Install Dependencies
