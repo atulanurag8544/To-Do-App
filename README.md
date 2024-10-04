@@ -35,7 +35,9 @@ Navigate to the backend folder:
 
 
 cd api
+
 npm install
+
 ### Frontend (React):
 
 Navigate to the frontend folder:
