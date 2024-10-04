@@ -24,8 +24,8 @@ A simple full-stack To-Do application with the following features:
 
 ### 1. Clone the Repository
  
-   git clone https://github.com/atulanurag8544/todo-app.git
-   cd todo-app
+   *git clone https://github.com/atulanurag8544/todo-app.git
+   *cd todo-app
  ### 2. Install Dependencies
    ### Backend (Node.js and Express):
 
