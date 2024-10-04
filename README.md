@@ -39,7 +39,7 @@ git add .
 git commit -m "Your commit message here"
 
 
-git remote add origin https://github.com/username/repo-name.git
+git remote add origin https://github.com/atulanurag8544/To-Do-App.git
 
 
 git fetch origin
