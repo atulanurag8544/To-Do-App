@@ -28,25 +28,12 @@ A simple full-stack To-Do application with the following features:
 ### Clone the Repository
  
 cd C:\Users\Dell\Downloads\MERN-TO-DO-APP-main
-
-
 git init
-
-
 git add .
-
-
 git commit -m "Your commit message here"
-
-
 git remote add origin https://github.com/atulanurag8544/To-Do-App.git
-
-
 git fetch origin
-
-
 git merge origin/main --allow-unrelated-histories  
-
 git push -u origin main  
 
    
